@@ -1,4 +1,4 @@
-![Cover Photo](https://i.imgur.com/G3hmYZu.jpg)
+![Cover Photo]([https://i.imgur.com/G3hmYZu.jpg](https://github.com/Niranthara2004/CoverImage/blob/dc8ee3cfb8b69f9b8c6e915e3f903d2105481ac0/Software%20developer.png))
 
 # 👽 **Welcome to My Space!** 👾  
 ### **`Aspiring Software Engineer | Innovator | Dreamer`**
