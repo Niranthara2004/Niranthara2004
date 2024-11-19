@@ -19,14 +19,6 @@ Here’s a futuristic and enhanced version of your README, including a **"Most U
 
 ---
 
-## 🔥 **Most Used Languages**
-
-Here’s a glimpse of my coding preferences:  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranthara&langs_count=4&layout=compact&theme=radical)  
-
----
-
 ## 🚀 **Current Missions**
 
 ### 🌐 **F1 Blogging Platform**
