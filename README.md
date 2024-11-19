@@ -1,44 +1,53 @@
 ![Cover Photo](https://i.postimg.cc/x8DjH2M4/Software-developer-3.png)
+Here’s a futuristic and enhanced version of your README, including a **"Most Used Languages"** section that reflects your skills in JavaScript, Java, Python, and C#.  
 
-# 👽 **Welcome to My Space!** 👾  
-### **`Aspiring Software Engineer | Innovator | Dreamer`**
+# 👨‍💻 **Niranthara's Hub of Code**
+
+**`Aspiring Software Engineer | AI & Web Enthusiast | Future Builder`**  
+🌟 Turning ideas into reality, one line of code at a time.  
 
 ---
 
-## 🌌 **Tech Universe I Explore**
+## 🛠️ **Tech Arsenal**
+
 ```plaintext
-> 🚀 PROGRAMMING LANGUAGES: Java | JavaScript | Python | HTML | CSS
-> 🛠️ FRAMEWORKS & TOOLS: Spring Boot | React | Node.js | IntelliJ IDEA
-> 🛸 DATABASE MANAGEMENT: MySQL | MongoDB | Oracle
-> 🌟 INTERESTS: Machine Learning | Data Science | AI-Powered Solutions
+💻 Languages: JavaScript | Java | Python | C#  
+🛠️ Frameworks: React | Spring Boot | Node.js  
+📊 Databases: MySQL | MongoDB | Oracle  
+🚀 Interests: AI & Machine Learning | Web Dev | Autonomous Systems
 ```
 
 ---
 
-## 🔮 **Ongoing Missions**  
-**1️⃣ F1 Blogging Website**  
-_A futuristic platform for Formula 1 fans with advanced features:_  
-- 🚦 **RESTful API** for smooth navigation  
-- 🖼️ Upload images with descriptions  
-- 📚 Expandable content with “Read More”  
+## 🔥 **Most Used Languages**
 
-**2️⃣ DriveEase Project**  
-_Smart, AI-enhanced autonomous vehicle project:_  
-- 🛣️ Lane following and obstacle detection  
-- 🚦 Traffic light analysis powered by Raspberry Pi  
+Here’s a glimpse of my coding preferences:  
 
-**3️⃣ AI Tools Website (Coming 2025)**  
-_A comprehensive resource hub for AI enthusiasts!_
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranthara&langs_count=4&layout=compact&theme=radical)  
 
 ---
 
-## 📊 **Mission Logs**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niranthara&show_icons=true&theme=highcontrast)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranthara&layout=compact&theme=highcontrast)
+## 🚀 **Current Missions**
+
+### 🌐 **F1 Blogging Platform**
+- RESTful API-powered blogging site.  
+- Features include image uploads, expandable posts, and a user-friendly interface.  
+
+### 🤖 **DriveEase Autonomous Project**
+- AI-powered lane following, obstacle avoidance, and traffic light detection using Raspberry Pi.  
+
+### 🛸 **AI Tools Resource Website (Coming 2025)**  
+- A futuristic hub for AI tools, resources, and tutorials.  
 
 ---
 
-## 🛸 **Connect Across Galaxies**  
+## 📈 **Stats That Matter**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niranthara&show_icons=true&theme=radical)  
+
+---
+
+## 🌌 **Connect With Me**
 
 [![Email](https://img.shields.io/badge/Email-nirantharadharmarathna2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirantharadharmarathna2004@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranthara%20Dharmarathna-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranthara-dharmarathna)  
@@ -46,9 +55,8 @@ _A comprehensive resource hub for AI enthusiasts!_
 
 ---
 
-> _"The future belongs to those who believe in the beauty of their dreams."_  
-Let’s build something extraordinary together! 🚀  
+> _"The best way to predict the future is to create it."_  
+
+Join me in crafting the future of tech! 🚀  
 
 ---
-
-This design has a futuristic vibe with ASCII art and styled sections. Let me know if you want more customization! 😊
