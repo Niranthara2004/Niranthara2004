@@ -1,5 +1,4 @@
 ![Cover Photo](https://i.postimg.cc/x8DjH2M4/Software-developer-3.png)
-Here’s a futuristic and enhanced version of your README, including a **"Most Used Languages"** section that reflects your skills in JavaScript, Java, Python, and C#.  
 
 # 👨‍💻 **Niranthara's Hub of Code**
 
