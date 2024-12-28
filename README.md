@@ -20,12 +20,13 @@
 
 ## 🚀 **Current Missions**
 
-### 🌐 **F1 Blogging Platform**
-- RESTful API-powered blogging site.  
-- Features include image uploads, expandable posts, and a user-friendly interface.  
+### 🌐 **AI-Driven Full Stack Hotel Management System**
+- Building a smart hotel management platform using AI-driven features.
+- Leveraging vector databases for advanced data retrieval and personalized guest services..  
 
-### 🤖 **DriveEase Autonomous Project**
-- AI-powered lane following, obstacle avoidance, and traffic light detection using Raspberry Pi.  
+### 💧 **IoT Smart Water Bottle**
+- Developing a smart water bottle to track water levels and send reminders to stay hydrated.
+- Using IoT technology for real-time tracking and notifications.
 
 ### 🛸 **AI Tools Resource Website (Coming 2025)**  
 - A futuristic hub for AI tools, resources, and tutorials.  
