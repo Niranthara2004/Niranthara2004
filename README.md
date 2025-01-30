@@ -24,7 +24,7 @@
 - Building a smart hotel management platform using AI-driven features.
 - Leveraging vector databases for advanced data retrieval and personalized guest services..  
 
-###❚█══█❚**Fitness App Using AI**
+###🏋🏽**Fitness App Using AI**
 - Developing a fitness app using AI/ML algorithems.
 - Using IoT technology for real-time tracking and notification.
 
