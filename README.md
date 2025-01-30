@@ -24,12 +24,12 @@
 - Building a smart hotel management platform using AI-driven features.
 - Leveraging vector databases for advanced data retrieval and personalized guest services..  
 
-### 💧 **IoT Smart Water Bottle**
-- Developing a smart water bottle to track water levels and send reminders to stay hydrated.
-- Using IoT technology for real-time tracking and notifications.
+###❚█══█❚**Fitness App Using AI**
+- Developing a fitness app using AI/ML algorithems.
+- Using IoT technology for real-time tracking and notification.
 
-### 🛸 **AI Tools Resource Website (Coming 2025)**  
-- A futuristic hub for AI tools, resources, and tutorials.  
+### 🛸 **News Mobile app using Kotlin**  
+- Building a News Mobile App and it will be more functionalized.  
 
 ---
 
